@@ -1,3 +1,3 @@
 <h1> The Cleanic Template </h1>
 
-<a href="the-cleanic.netlify.app"> <img src="Images/Banner1.webp"> </a>
+![image alt](https://github.com/Rohit-Pakhre09/The-Cleanic/blob/18923f8583f2efa67996dafa310b71f3e7a0e204/The-%20Cleanic.png)
